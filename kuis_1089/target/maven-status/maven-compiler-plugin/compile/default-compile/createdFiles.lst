@@ -1,0 +1,9 @@
+com\tib\kuis_1089\repo\aksesorisRepo.class
+com\tib\kuis_1089\entity\aksesoris.class
+com\tib\kuis_1089\Kuis1089Application.class
+com\tib\kuis_1089\controller\mobilController.class
+com\tib\kuis_1089\entity\mobil.class
+com\tib\kuis_1089\service\aksesorisService.class
+com\tib\kuis_1089\service\mobilService.class
+com\tib\kuis_1089\controller\aksesorisController.class
+com\tib\kuis_1089\repo\mobilRepo.class
